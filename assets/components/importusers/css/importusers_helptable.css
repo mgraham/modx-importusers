@@ -1,0 +1,28 @@
+table.import-users-help {
+    border-collapse: collapse;
+    border: 1px #44f solid;
+}
+table.import-users-help tr {
+    border: 1px #44f solid;
+}
+table.import-users-help tr.even {
+    background-color: #ddf;
+}
+table.import-users-help th {
+    background-color: #aaf;
+    font-weight: bold;
+    border: 1px #44f solid;
+    padding: 5px;
+}
+table.import-users-help td {
+    padding: 5px;
+    vertical-align: top;
+    border: 1px #44f solid;
+}
+table.import-users-help td.field {
+    font-weight: bold;
+}
+table.import-users-help td.note {
+    font-style: italic;
+}
+
